@@ -9,8 +9,7 @@ function App() {
 
   return (
     <>
-    {/* <Home/> */}
-    <h1>hsjkdhsa</h1>
+    <Home/>
     </>
   )
 }
