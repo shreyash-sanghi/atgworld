@@ -71,7 +71,7 @@ const Navbar = () => {
                          <p onClick={()=>{
                              handleOpen()
                             handleSignUPOpen()
-                            }} className="text-blue-600 cursor-pointer whitespace-nowrap ">or,Sign In</p>
+                            }} className="text-blue-600 cursor-pointer whitespace-nowrap ">or,Sign Up</p>
 
                         </CardFooter>
                         <button class="group h-12 px-6 border-2 border-gray-300 rounded-full transition duration-300 
